@@ -22,4 +22,11 @@ Open source under the BSD 3-Clause license.
 - Run `python run.py <S>` where `<S>` is the json file for experimental setting.
 
 ## Publication
-To be appeared at HPCA 2025
+@inproceedings{lin2025reuse,
+  title={Reuse-aware compilation for zoned quantum architectures based on neutral atoms},
+  author={Lin, Wan-Hsuan and Tan, Daniel Bochen and Cong, Jason},
+  booktitle={2025 IEEE International Symposium on High Performance Computer Architecture (HPCA)},
+  pages={127--142},
+  year={2025},
+  organization={IEEE}
+}
